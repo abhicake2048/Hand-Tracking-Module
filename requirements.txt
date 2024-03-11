@@ -1,0 +1,4 @@
+libraries used:
+1. OpenCV
+2. Mediapipe
+3. Time
